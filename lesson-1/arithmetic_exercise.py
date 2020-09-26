@@ -36,13 +36,13 @@ def question_4():
 
 def question_5():
   '''
-  What is the remainder when (6 + 36)^5 - 18492 is divided by 296?
+  What is the remainder when (6 + 36) to the fifth power minus 18492 is divided by 296?
   '''
   ans = 0 # replace this with your arithmetic code!
   return ans
 
 def question_6():
-  ''' (24 + 9)^5 - (871398/11)
+  '''
   What is the answer to (24 + 9) to the fifth power subtracted by (871398 divided by 11) all divided by 5 squared?
   '''
   ans = 0 # replace this with your arithmetic code!
@@ -69,3 +69,5 @@ def main():
       cor += 1
   
   print("Got " + str(cor) + "/" + str(len(qs)) + " correct")
+
+  
